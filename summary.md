@@ -15,4 +15,5 @@ The Buzzer, driving the leds, the RTC, the light sensor and the power saving in 
 After 2 months, mostly in standby, the battery is still more than a third of its capacity.
 The operation via 2 buttons is possible, but can be improved in future projects, as it is not really intuitive due to multiple assignments.
 
-In summary, I can say that I have learned a lot and will apply the knowledge in the next wearable project. Maybe there will be a really smart watch with IOT functions or other wearable projects with low power requirements and small size.
+In summary, I can say that I have learned a lot and will apply the knowledge in the next wearable project.
+Maybe there will be a really smart watch with IOT functions or other wearable projects with low power requirements and small size.
